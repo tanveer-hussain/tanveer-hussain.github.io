@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /repositories/
-title: code
+title: Code
 description: Open-source implementations accompanying my research.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 {% if site.data.repositories.github_users %}

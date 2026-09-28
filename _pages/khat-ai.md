@@ -4,7 +4,7 @@ permalink: /khat-ai/
 title: KHAT-AI
 description: AI consultancy and training.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 **KHAT-AI** is an AI consultancy and training company that I direct. We help universities, businesses and public-sector teams understand, adopt and build with artificial intelligence, bringing research-grade expertise to practical problems.
