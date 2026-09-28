@@ -6,7 +6,7 @@ subtitle: Senior Lecturer in Computer Science, <a href="https://www.edgehill.ac.
 
 profile:
   align: right
-  image: prof_pic.jpg # replace assets/img/prof_pic.jpg with your photo (square, ~600px)
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Department of Computer Science</p>
