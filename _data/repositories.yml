@@ -1,0 +1,12 @@
+github_users:
+  - tanveer-hussain
+
+repo_description_lines_max: 2
+
+github_repos:
+  - tanveer-hussain/Video-Summarization
+  - tanveer-hussain/EfficientSOD
+  - tanveer-hussain/EfficientSOD2
+  - tanveer-hussain/MVS-using-CNN-and-LSTM
+  - tanveer-hussain/Embedded-Vision-for-MVS
+  - tanveer-hussain/Baby-behavior-monitoring-IoT

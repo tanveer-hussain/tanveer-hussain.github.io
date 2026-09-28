@@ -1,0 +1,9 @@
+# Social links shown on the About page and in the footer (order = display order).
+# See https://github.com/george-gca/jekyll-socials for all supported keys.
+# email: your.name@edgehill.ac.uk # TODO: add the email address you want shown publicly
+scholar_userid: 4fU0t_oAAAAJ
+orcid_id: 0000-0003-4861-8347
+github_username: tanveer-hussain
+linkedin_username: tinu445
+research_gate_profile: Tanveer-Hussain-17
+# cv_pdf: /assets/pdf/cv.pdf # add your CV as assets/pdf/cv.pdf and uncomment
